@@ -1,0 +1,28 @@
+- Introduction
+- Putting content into a document
+  - The supported content types
+  - Defining the right text workflow
+  - Preparing the graphical stuff
+- Adding text
+  - Typing text
+  - Getting text
+  - Supported formatted text
+  - Getting formatted text
+  - Exporting text
+  - Syncronising text
+- Adding raster images
+  - Supported image types
+  - RGB or CMYK
+  - Spot colors
+- Adding vector graphic
+  - Drawing in Scribus
+  - Importing SVG drawings
+  - Importing PDFs
+- Creating tables
+  - Tables and tabulators
+  - Importing tables from Libreoffice
+  - Importing tables as a PDF
+  - Importing tables as images
+- Creating formulas
+- Adding rendered content
+- Creating barcodes
