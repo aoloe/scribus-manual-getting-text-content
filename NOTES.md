@@ -16,3 +16,36 @@ With Scribus 1.5.x you can directly open a PDF with Scribus. This function is st
 - for vector images: open the page with inkscape and copy paste them
   into scribus (you'll get the artwork and the text as vectors) or open
   the page with gimp and save the relevant part as a png.
+
+## File formats support for formatted text
+
+- ODT (Libreoffice, Openoffice, Microsoft Office)
+- HTML (Web, Office)
+- tagged text
+
+Partially supported file formats:
+- .doc(x) files can be imported through `antiword` but all formatting will be lost.
+
+## Supported formatting
+
+- Paragraph style
+- Character style
+- Font name
+- Text size
+- Bold
+- Italic
+- Sup / Sub
+- underline
+- http links
+- text alignement
+- paragraph (left, right, hanging) indents
+- tables
+- footnotes
+- bullet/ordered lists
+- text and background color
+- embedded images
+- images
+- vector graphic
+- embedded formulas
+- language
+- notes
