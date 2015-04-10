@@ -22,9 +22,17 @@ With Scribus 1.5.x you can directly open a PDF with Scribus. This function is st
 - ODT (Libreoffice, Openoffice, Microsoft Office)
 - HTML (Web, Office)
 - tagged text
+- XTG (Quark Express Tags Documents
+- IDML, INDS, ICML Adobe Indesign export files
+- PUB (MS Publisher)
+- RTF (Microsoft Office)
 
 Partially supported file formats:
 - .doc(x) files can be imported through `antiword` but all formatting will be lost.
+- .pdf
+
+Sources:
+- [Scribus 1.5.0 Release Schedule](http://wiki.scribus.net/canvas/Scribus_1.5.0_Release_Schedule)
 
 ## Supported formatting
 
