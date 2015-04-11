@@ -57,3 +57,10 @@ Sources:
 - embedded formulas
 - language
 - notes
+
+## Testing the paragraph styles matching
+
+- loading `styles-title-text.odt` with "merge styles" option:
+  - expected behavior: the styles "Heading 1" and "Text Body" are used if available or otherwise created.
+  - in Scribus 1.4 a style "default-style" is created and used ([related issue](http://bugs.scribus.net/view.php?id=13002)).
+  - in Scribsu 1.5 the styles "Heading_20_1" and "Text_20_Body" are created ([related issue](http://bugs.scribus.net/view.php?id=13001)).
